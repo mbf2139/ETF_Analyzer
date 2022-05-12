@@ -1,0 +1,84 @@
+ 1000  cd desktop
+ 1001  cd fintech-workspace
+ 1002  git clone git@github.com:mbf2139/PropTech_San_Fran.git
+ 1003  cd PropTech_San_Fran
+ 1004  git status
+ 1005  git status
+ 1006  git status
+ 1007  git add .gitignore
+ 1008  git commit -m "updated gitignore"
+ 1009  git status
+ 1010  git add -A
+ 1011  git commit -m "added starter files"
+ 1012  cd ..
+ 1013  git clone git@github.com:mbf2139/Diversifying_Stock_Portfolio.git
+ 1014  ls
+ 1015  cd Diversifying_stock_portfolio
+ 1016  git status
+ 1017  git add .gitignore
+ 1018  git commit -m "updated git ignore"
+ 1019  git status
+ 1020  git add -A
+ 1021  git commit -m "added local starter files"
+ 1022  cd ..
+ 1023  ls
+ 1024  jupyter lab
+ 1025  cd class_folder
+ 1026  git pull
+ 1027  cd ..
+ 1028  jupyter lab
+ 1029  pip install fredapi
+ 1030  jupyter lab
+ 1031  git clone git@github.com:shresthab94/NYC-PropTech-Prices.git
+ 1032  ls
+ 1033  cd NYC-PropTech-Prices
+ 1034  git pull
+ 1035  python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
+ 1036  jupyter lab
+ 1037  cd ..
+ 1038  cd desktop
+ 1039  cd ..
+ 1040  cd ../..
+ 1041  cd ../..
+ 1042  cd ..
+ 1043  cd ..
+ 1044  cd desktop
+ 1045  ls
+ 1046  cd users
+ 1047  ls
+ 1048  cd matthewfield
+ 1049  ls
+ 1050  cd desktop
+ 1051  cd fintech-workspace
+ 1052  gitclone git@github.com:shresthab94/NYC-PropTech-Prices.git
+ 1053  git clone git@github.com:shresthab94/NYC-PropTech-Prices.git
+ 1054  ls
+ 1055  cd Diversifying_Stock_Portfolio
+ 1056  jupyter lab
+ 1057  cd ..
+ 1058  git clone git@github.com:mbf2139/ETF_Analyzer.git
+ 1059  ls
+ 1060  cd ETF_Analyzer
+ 1061  git status
+ 1062  git add -.gitignore
+ 1063  git add -A
+ 1064  git status
+ 1065  git commit -m "updated gitignore and added starter files"
+ 1066  cd ..
+ 1067  jupyter lab
+ 1068  ls
+ 1069  cd ETF_Analyzer
+ 1070  ls
+ 1071  cd ETF_Analyzer
+ 1072  ls
+ 1073  voila etf_analyzer.ipynb
+ 1074  voila etf_analyzer.ipynb
+ 1075  cd ..
+ 1076  git status
+ 1077  git add -A
+ 1078  git status
+ 1079  git commit -m "added voila screen recording"
+ 1080  jupyter lab
+ 1081  cd ..
+ 1082  jupyter lab
+ 1083  cd etf_analyzer
